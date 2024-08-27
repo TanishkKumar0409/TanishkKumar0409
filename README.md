@@ -1,5 +1,5 @@
-Hi there 👋, I'm Tanishk Kumar!
-I'm a passionate web developer with a strong focus on creating visually appealing, user-friendly, and interactive websites. My work primarily revolves around dark themes with a flair for animation and modern design.
+-Hi there 👋, I'm Tanishk Kumar!
+-I'm a passionate web developer with a strong focus on creating visually appealing, user-friendly, and interactive websites. My work primarily revolves around dark themes with a flair for animation and modern design.
 🔧 Known Languages & Tools:
     Languages:
         HTML
