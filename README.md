@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanishk Kumar - Web Developer</title>
-    <!-- Font Awesome CDN -->
+
     <script src="https://kit.fontawesome.com/87f0afa689.js" crossorigin="anonymous"></script>
     <style>
         /* Typing animation */
