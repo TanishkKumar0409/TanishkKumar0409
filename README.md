@@ -2,7 +2,7 @@
 <p>I'm a passionate web developer with a strong focus on creating visually appealing, user-friendly, and interactive websites. My work primarily revolves around dark themes with a flair for animation and modern design.</p>
 <h2>Skills</h2>
 <h3>🔧 Known Languages & Tools: Languages:</h3>
-<img src="HTML.gif" />
+<img src="HTML.gif" width="50px" />
 <ul>
   <li>CSS</li>
   <li>SCSS</li>
