@@ -10,6 +10,7 @@
 <img src="MYSQL.gif" width="10%" />
 <img src="JAVA.gif" width="10%" />
 <img src="BOOTSTRAP.gif" width="10%" />
+<img src="TAILWIND.gif" width="10%" />
 <img src="GIT.gif" width="10%" />
 <img src="MSOFFICE.gif" width="10%" />
 </div>
