@@ -2,6 +2,7 @@
 <p>I'm a passionate web developer with a strong focus on creating visually appealing, user-friendly, and interactive websites. My work primarily revolves around dark themes with a flair for animation and modern design.</p>
 <h2>Skills</h2>
 <h3>🔧 Known Languages & Tools: Languages:</h3>
+<div style="display:flex">
 <img src="HTML.gif" width="10%" />
 <img src="CSS.gif" width="10%" />
 <img src="SASS.gif" width="10%" />
@@ -11,6 +12,7 @@
 <img src="BOOTSTRAP.gif" width="10%" />
 <img src="GIT.gif" width="10%" />
 <img src="MSOFFICE.gif" width="10%" />
+</div>
 <ul>
   <li>TailWind CSS</li>
 </ul>
