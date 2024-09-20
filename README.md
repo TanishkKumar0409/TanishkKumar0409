@@ -14,9 +14,6 @@
 <img src="GIT.gif" width="10%" />
 <img src="MSOFFICE.gif" width="10%" />
 </div>
-<ul>
-  <li>TailWind CSS</li>
-</ul>
 <p>🚀 What I'm Working On: Improving designs for interactive elements such as carousels, accordions, and navigations with JavaScript, Tailwind CSS, and Bootstrap.</p>
 <p>🌱 Learning & Growth: Enhancing my skills in UI/UX design to create more engaging user experiences. Exploring new ways to incorporate Tailwind CSS for efficient and scalable design.</p>
 <p>💼 Experience: Completed a 3-month web development internship at Offbeat Pixels, where I worked on four projects, honing my skills in web design and development.</p>
