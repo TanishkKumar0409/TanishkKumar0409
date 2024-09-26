@@ -13,6 +13,7 @@
 <img src="GIT.gif" width="10%" />
 <img src="MSOFFICE.gif" width="10%" />
 <img src="JAVA.gif" width="10%" />
+<!-- <p>add: Figma</p> -->
 </div>
 <p>🚀 What I'm Working On: Improving designs for interactive elements such as carousels, accordions, and navigations with JavaScript, Tailwind CSS, and Bootstrap.</p>
 <p>🌱 Learning & Growth: Enhancing my skills in UI/UX design to create more engaging user experiences. Exploring new ways to incorporate Tailwind CSS for efficient and scalable design.</p>
