@@ -22,5 +22,3 @@
   <li>Contact No.: 95576213131 </li>
   <li>Email: tanishkk60@gmail.com</li>
 </ul>
-<p>⚡ Fun Fact: I love experimenting with dark color schemes and finding new ways to add a touch of creativity to my web designs!</p>
-this is my profile readme make it a web page layout</p>
