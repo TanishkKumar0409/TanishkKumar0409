@@ -5,8 +5,8 @@
 <div style="display:flex;align-items:center">
 <img src="HTML.gif" width="10%" />
 <img src="CSS.gif" width="10%" />
-<img src="SASS.gif" width="10%" />
 <img src="PHP.gif" width="10%" />
+<img src="SASS.gif" width="10%" />
 <img src="MYSQL.gif" width="10%" />
 <img src="JAVA.gif" width="10%" />
 <img src="BOOTSTRAP.gif" width="10%" />
